@@ -3,7 +3,7 @@ padding: 0 ;
 box-sizing: border-box;}
 
 .container{height: 100%
-    display:flex;
+    display: flex;
     flex-direction: row;
     justify-content:space-around;}
 
@@ -13,4 +13,4 @@ box-sizing: border-box;}
         background-color: yellow;
         border: 1px solid black; }
 
-        div{font-size:large; color: black}
+        div{font-size:large; color: black} 
