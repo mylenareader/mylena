@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
-*{font-family: Arial, Helvetica, sans-serif;)}
+*{font-family: Arial, Helvetica, sans-serif;}
 
-{body
+ body{
 background-image: linear-gradient(to right, #3F3CA6, #6F738);}
  
 
@@ -11,19 +11,19 @@ background-color: white;
  width: 1000px;
  padding: 10px;
  box-shadow: 10px 10px 10px black; /* sombra: */
-margin: auto;
+ margin: auto;
  border-radius: 10px;}
 
 #idnum1{
 background-color: blue;
 height: 100px;
- padding: 5px;
+padding: 5px;
 border-radius: 10px;}
 
  h1{
 color: orangered;
 text-align: center;
-font size. 50px;}
+font size: 50px;}
 
  h2{
 color: orange;}
